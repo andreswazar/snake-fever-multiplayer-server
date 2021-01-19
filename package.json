@@ -1,0 +1,22 @@
+{
+  "name": "snake-fever-multiplayer-server",
+  "version": "1.0.0",
+  "description": "Multiplayer server for https://github.com/andreswazar/snake-fever",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreswazar/snake-fever-multiplayer-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreswazar/snake-fever-multiplayer-server/issues"
+  },
+  "homepage": "https://github.com/andreswazar/snake-fever-multiplayer-server#readme",
+  "dependencies": {
+    "socket.io": "^3.0.5"
+  }
+}
