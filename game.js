@@ -75,18 +75,6 @@ function generateGreenApple(gameState) {
                 }
             }      
         }
-
-        // for (let i = 0; i < obstacles.length; i++) {
-        //     if (positionX == obstacles[i].x && positionY == obstacles[i].y) {
-        //         continue whileLoop;
-        //     }
-        // }
-
-        // for (let i = 0; i < redApples.length; i++) {
-        //     if (positionX == redApples[i].x && positionY == redApples[i].y) {
-        //         continue whileLoop;
-        //     }
-        // }
         
         break;
     } 
